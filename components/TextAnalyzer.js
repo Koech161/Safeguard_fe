@@ -27,7 +27,7 @@ export default function TextAnalyzer() {
         text: text,
         language: 'en'
       });
-      console.log(response.data);
+     
       
       setResult(response.data);
     } catch (err) {
