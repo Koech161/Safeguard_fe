@@ -25,14 +25,14 @@ export default function ResourcesSection() {
     KE: [
       {
         name: 'Gender Violence Recovery Centre',
-        phone: '+254-703-034-000',
+        phone: '+254703034000',
         website: 'https://gvrc.or.ke/',
         description: 'Medical and psychological support for GBV survivors.',
         category: 'medical',
       },
       {
         name: 'FIDA Kenya',
-        phone: '+254-20-2711535',
+        phone: '+254202711535',
         website: 'https://fidakenya.org',
         description: 'Legal aid and support for women.',
         category: 'legal',
@@ -46,7 +46,7 @@ export default function ResourcesSection() {
       },
       {
         name: 'CREAW Kenya',
-        phone: '+254-722-822-998',
+        phone: '0800720186',
         website: 'https://creawkenya.org',
         description: 'Rights-based organization supporting survivors of GBV.',
         category: 'support',
@@ -56,21 +56,21 @@ export default function ResourcesSection() {
     NG: [
       {
         name: 'Women at Risk International Foundation (WARIF)',
-        phone: '+234-803-334-5566',
+        phone: '+23480092100009',
         website: 'https://warifng.org',
         description: 'GBV prevention, rape crisis, and response services.',
         category: 'support',
       },
       {
         name: 'Mirabel Centre',
-        phone: '+234-815-584-0000',
+        phone: '+23408155770000',
         website: 'https://mirabelcentre.org',
         description: 'Sexual assault referral centre offering free medical and counseling support.',
         category: 'medical',
       },
       {
         name: 'National GBV Hotline (Nigeria)',
-        phone: '0800 033 33 33',
+        phone: '08172702242',
         website: '',
         description: '24/7 national helpline for reporting GBV cases.',
         category: 'emergency',
@@ -80,21 +80,21 @@ export default function ResourcesSection() {
     ZA: [
       {
         name: 'GBV Command Centre',
-        phone: '0800 428 428',
+        phone: '0800428428',
         website: '',
         description: '24/7 emergency support and counseling for GBV survivors.',
         category: 'emergency',
       },
       {
         name: 'TEARS Foundation South Africa',
-        phone: '+27-10-590-5920',
+        phone: '0800083277',
         website: 'https://tears.co.za',
         description: 'Support for survivors of rape and sexual abuse.',
         category: 'support',
       },
       {
         name: 'People Opposing Women Abuse (POWA)',
-        phone: '+27-11-642-4345',
+        phone: '0115916803',
         website: 'https://powa.co.za',
         description: 'Shelter, legal, and counseling services for abused women.',
         category: 'legal',
@@ -111,7 +111,7 @@ export default function ResourcesSection() {
       },
       {
         name: 'Uganda Women’s Network (UWONET)',
-        phone: '+256-414-286-063',
+        phone: '+256759330000',
         website: 'https://uwonet.or.ug',
         description: 'Advocacy and support services for women survivors.',
         category: 'support',
@@ -128,7 +128,7 @@ export default function ResourcesSection() {
       },
       {
         name: 'Tanzania Gender Networking Programme',
-        phone: '+255-22-266-4051',
+        phone: '+255754784050',
         website: 'https://tgnp.or.tz',
         description: 'Support and advocacy for women and girls experiencing violence.',
         category: 'support',
@@ -138,14 +138,14 @@ export default function ResourcesSection() {
     GH: [
       {
         name: 'Ghana Domestic Violence & Victim Support Unit (DOVVSU)',
-        phone: '+233-302-777-395',
+        phone: '+233302777395',
         website: '',
         description: 'Police-led support for victims of domestic and sexual violence.',
         category: 'emergency',
       },
       {
         name: 'ARK Foundation Ghana',
-        phone: '+233-302-911-385',
+        phone: '+233243777773 ',
         website: 'https://arkfoundationghana.org',
         description: 'Shelter, legal, and counseling services for survivors.',
         category: 'support',

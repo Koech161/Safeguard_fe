@@ -7,6 +7,7 @@ import TextAnalyzer from '../components/TextAnalyzer';
 import ImageAnalyzer from '../components/ImageAnalyzer';
 import ResourcesSection from '../components/ResourcesSection';
 import SafetyTips from '../components/SafetyTips';
+import ContactDeveloper from '../components/ContactDeveloper'
 import { 
   Shield, 
   MessageSquare, 
@@ -167,6 +168,10 @@ export default function MainApp() {
 
           <div className="mt-16">
             <SafetyTips />
+          </div>
+
+          <div className="mt-16">
+            <ContactDeveloper/>
           </div>
         </section>
 

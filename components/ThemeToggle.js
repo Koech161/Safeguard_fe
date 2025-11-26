@@ -14,7 +14,7 @@ export default function ThemeToggle() {
     <button
       onClick={() => router.push('/donate')}
       
-      className="p-2 text-purple-600 transition-colors bg-purple-100 rounded-lg dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800"
+      className="p-2 text-purple-600 transition-colors bg-purple-100 rounded-lg cursor-pointer dark:bg-purple-900 dark:text-purple-300 hover:bg-purple-200 dark:hover:bg-purple-800"
       aria-label="Toggle theme"
     >
       {/* {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />} */}
